@@ -1,7 +1,7 @@
 # Temperature-Prediction-Model
 
-This repository contains a Machine Learning model for predicting temperatures based on historical data. The model performs data cleaning, exploratory data analysis (EDA), data preprocessing, and utilizes various machine learning algorithms. Among these algorithms, the Random Forest algorithm achieved the highest accuracy of 89%.
-
+### Project Overview
+This project is designed to predict and forecast the average temperature on a specific date using the Random Forest algorithm. The model provides an intuitive way to understand temperature trends and make predictions with high accuracy.
 - Data Collection: Gathered temperature data from a reliable source, presumably historical temperature records.
 
 - Data Cleaning: Addressed missing values, outliers, and any inconsistencies in the dataset that might affect the accuracy of the model.
